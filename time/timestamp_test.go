@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/asticode/go-astitools/time"
+	"github.com/sgraves66/go-astitools/time"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -5,7 +5,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/asticode/go-astilog"
+	"github.com/sgraves66/go-astilog"
 )
 
 // Worker represents an object capable of blocking, handling signals and stopping

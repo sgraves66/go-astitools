@@ -5,7 +5,7 @@ import (
 	"net"
 	"net/http"
 
-	"github.com/asticode/go-astilog"
+	"github.com/sgraves66/go-astilog"
 	"github.com/pkg/errors"
 )
 

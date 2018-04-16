@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/asticode/go-astitools/io"
+	"github.com/sgraves66/go-astitools/io"
 	"github.com/pkg/errors"
 )
 

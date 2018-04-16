@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/asticode/go-astilog"
+	"github.com/sgraves66/go-astilog"
 	"github.com/julienschmidt/httprouter"
 	"github.com/pkg/errors"
 )

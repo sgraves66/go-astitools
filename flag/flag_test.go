@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/asticode/go-astitools/flag"
+	"github.com/sgraves66/go-astitools/flag"
 	"github.com/stretchr/testify/assert"
 )
 

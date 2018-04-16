@@ -3,7 +3,7 @@ package astitemplate_test
 import (
 	"testing"
 
-	"github.com/asticode/go-astitools/template"
+	"github.com/sgraves66/go-astitools/template"
 	"github.com/stretchr/testify/assert"
 )
 

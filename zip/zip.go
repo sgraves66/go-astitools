@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/asticode/go-astitools/io"
+	"github.com/sgraves66/go-astitools/io"
 )
 
 // Zip zips a src into a dst

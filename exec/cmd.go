@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/asticode/go-astilog"
+	"github.com/sgraves66/go-astilog"
 )
 
 // Cmd represents a command
